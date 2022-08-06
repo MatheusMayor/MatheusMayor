@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MatheusMayor
-- 👀 I’m interested in ...prograr 
-- 🌱 I’m currently learning ...C#, C++, Html, Css, Java Script, Phython, Ruby...
-- 💞️ Estou a procura de jobs voltados a Desenvolvedor Frontend...
-- 📫 Instagram:@sieversmayor47
+- 👋 Olá Seja Bem Vindo (a) me chamo @MatheusMayor
+- 👀 Eu tenho interesse em programação
+- 🌱 Estou estudando as seguintes linguagens;C#, C++, Html, Css, Java, Java Script, Phython, Ruby...
+- 💞️ Estou a procura de jobs voltados a Desenvolvedor Front-end...
+
 
 <!---
 MatheusMayor/MatheusMayor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="MatheusMayor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MatheusMayor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MatheusMayor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Matheusmayor-pic" height="150" style="border-radius:50px;" 
+  
  ##
  
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="https://instagram.com/sieversmayor47_blank"></a>
