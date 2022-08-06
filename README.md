@@ -1,7 +1,7 @@
-- 👋 Olá Seja Bem Vindo (a) me chamo @MatheusMayor
-- 👀 Eu tenho interesse em programação
-- 🌱 Estou estudando as seguintes linguagens;C#, C++, Html, Css, Java, Java Script, Phython, Ruby...
-- 💞️ Estou a procura de jobs voltados a Desenvolvedor Front-end...
+- 👋  Olá Seja Bem Vindo (a) me chamo @MatheusMayor
+- 🎮  Eu tenho interesse em encarar novos projetos voltados a desenvolvimento de sofware e sites
+- 📚  Estou estudando as seguintes linguagens;C#, C++, Html, Css, Java, Java Script, Phython, Ruby...
+- 💞️  Estou a procura de jobs voltados a Desenvolvedor Front-end...
 
 
 <!---
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
   <a href="https://github.com/MatheusMayor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMayor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMayor&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMayor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
