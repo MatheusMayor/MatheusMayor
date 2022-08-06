@@ -20,7 +20,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="MatheusMayor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MatheusMayor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MatheusMayor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Matheusmayor-pic" height="150" style="border-radius:50px;" 
  ##
  
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="https://instagram.com/sieversmayor47_blank"></a>
