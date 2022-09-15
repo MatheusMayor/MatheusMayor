@@ -32,5 +32,7 @@ You can click the Preview link to take a look at your changes.
  <a href="https://www.linkedin.com/in/matheus-mayor-771714aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/MatheusMayor/MatheusMayor)
+    ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
  
  </div>
