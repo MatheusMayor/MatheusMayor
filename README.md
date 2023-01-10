@@ -1,5 +1,5 @@
 - 👋  Olá Seja Bem Vindo (a) me chamo @MatheusMayor, resido em Curitiba-Pr
-- 🎮  Eu tenho interesse em encarar novos projetos voltados a desenvolvimento de sofware e sites
+- 🎮  Eu tenho interesse em encarar novos projetos voltados a desenvolvimento WEB
 - 📚  Estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando na linguagem de Java Script junto com as bibliotecas React, Angular, Vue.JS e Jquery
 - 💞️  Estou a procura de jobs voltados a Desenvolvimento WEB
 
