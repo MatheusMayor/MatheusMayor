@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMayor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-      Tecnologias que eu uso no meu dia a dia 
+      Tecnologias que eu uso no meu dia a dia 👇🏼👇🏼👇🏼
     
   <div style="display: inline_block"><br>
   <img align="center" alt="MatheusMayor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
