@@ -13,12 +13,11 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMayor&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMayor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  <!---
+      Tecnologias que eu uso no meu dia a dia --->
+    
   <div style="display: inline_block"><br>
   <img align="center" alt="MatheusMayor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    
-    
-    Tecnologias que eu uso no meu dia a dia 
-
   <img align="center" alt="MatheusMayor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="MatheusMayor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MatheusMayor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
