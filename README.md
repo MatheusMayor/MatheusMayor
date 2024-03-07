@@ -7,7 +7,7 @@
 ##  Hellooo World! 👋 
 
 </span>
-- 👋  Olá Seja Bem Vindo (a) me chamo Matheus Mayor, resido em Curitiba-Pr
+  Olá Seja Bem Vindo (a) me chamo Matheus Mayor, resido em Curitiba-Pr
 - 🎮  Eu tenho interesse em encarar novos projetos voltados a desenvolvimento WEB e Mobile
 - 📚  Estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando na linguagem de Java Script junto com as bibliotecas React, React Native e Flutter.
 
