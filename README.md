@@ -12,7 +12,7 @@
 </div>
 
 
-  Hey! Que bom te ver por aqui.<br> Eu sou Matheus Mayor<strong>o grande resolvedor de problemas</strong> <br>atuou como Desenvolvedor de Softwares e sou apaixonado por tecnologia
+  Hey! Que bom te ver por aqui.<br> Eu sou Matheus Mayor <strong> o grande resolvedor de problemas</strong> <br>atuou como Desenvolvedor de Softwares e sou apaixonado por tecnologia
 - 🎮  Eu tenho interesse em encarar novos projetos voltados a desenvolvimento WEB e Mobile
 - 📚  Estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando na linguagem de Java Script junto com as bibliotecas React, React Native e Flutter.
 
