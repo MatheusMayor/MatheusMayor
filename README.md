@@ -31,13 +31,13 @@ You can click the Preview link to take a look at your changes.
     
   <div style="display: inline_block"><br>
   <img align="center" alt="MatheusMayor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="30" width="40"/>
-  <img src="https://img.shields.io/badge/-.NET-181717?style=flat-square&logo=dotnet" height="30" width="40"/>
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="30" width="40"/> 
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" width="40"/>
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="30" width="40"/>
-  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="30" width="40"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="30" width="40"/>
+  <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-.NET-181717?style=flat-square&logo=dotnet" height="30"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="30"/> 
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" />
+  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="30" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="30" />
   <img align="center" alt="MatheusMayor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MatheusMayor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
