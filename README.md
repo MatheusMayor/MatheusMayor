@@ -8,7 +8,7 @@
 
 </span>
 <div align="center">
-<img src="file:///C:/Users/mathe/Downloads/Meridino-ezgif.com-video-to-gif-converter.gif" width="700px" />
+<img src="Meridino-ezgif.com-video-to-gif-converter.gif" width="700px" />
 </div>
 
   Olá Seja Bem Vindo (a) me chamo Matheus Mayor, resido em Curitiba-Pr
