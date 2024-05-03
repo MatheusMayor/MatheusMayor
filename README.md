@@ -3,7 +3,7 @@
 
 </span>
 <div align="center">
-<img align="right" src="Meridino-ezgif.com-video-to-gif-converter.gif" width="700px" />
+<img src="Meridino-ezgif.com-video-to-gif-converter.gif" width="700px" />
 </div>
 
 
