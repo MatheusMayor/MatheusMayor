@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="MatheusMayor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MatheusMayor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-<img align="center" alt ="GitBuhStreak" [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MayorDev&theme=one-dark-pro&border_radius=5.3)](https://git.io/streak-stats)
+<align="center" alt ="GitBuhStreak" [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MayorDev&theme=one-dark-pro&border_radius=5.3)](https://git.io/streak-stats)
  
  <a href="https://discord.gg/Matheus_Mayor#8010" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "matheusmayor82@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
