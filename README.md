@@ -6,11 +6,11 @@
 <img src="Meridino-ezgif.com-video-to-gif-converter.gif" width="700px" />
 </div>
 
-
+<div>
   Que bom te ver por aqui.<br> Eu sou Matheus Mayor <strong> </strong> <br>Atuou como Desenvolvedor de Softwares e sou apaixonado por tecnologia
 - 🎮  Eu tenho interesse em encarar novos projetos voltados a desenvolvimento WEB e Mobile
 - 📚  Estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando na linguagem de Java Script junto com as bibliotecas React, React Native e Flutter.
-
+</div>
 
 
 <!---
