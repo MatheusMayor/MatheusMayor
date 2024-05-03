@@ -42,10 +42,9 @@ You can click the Preview link to take a look at your changes.
  
  <p align="center"> <src="<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=MatheusMayor&theme=material-palenight" alt="GitHub Streak" /></a>"
 
-<div align="center> 
+<div align="center">
  <a href="https://discord.gg/Matheus_Mayor#8010" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "matheusmayor82@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/matheus-mayor-771714aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
- </div>
