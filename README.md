@@ -1,62 +1,109 @@
+readme - update 2026
+
 <div align="center">
-  <h1>Hellooo World! 👋</h1> 
-  <img src="Meridino-ezgif.com-video-to-gif-converter.gif" width="700px" />
+  <h1>Matheus Mayor</h1>
+  <p>Backend Developer | Java | Python | AWS | Observability</p>
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## ▸ Sobre mim
 
-<strong>Eu sou Matheus Mayor</strong>, um apaixonado por tecnologia e desenvolvimento de softwares!
+<strong>Prazer, sou o Matheus Mayor</strong> 👋  
+Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas através de código.
 
-- 🎮 Busco desafios e novas oportunidades no desenvolvimento Web e Mobile.
-- 📚 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**.
-- 🚀 Me aprofundando em **JavaScript, React, React Native e Flutter**.
+- 🎯 Desenvolvedor focado em **Backend**, **Cloud** e integrações.
+- ☕ Atualmente trabalhando principalmente com **Java**, **Python** e **AWS**.
+- 📚 Graduando em **Análise e Desenvolvimento de Sistemas**.
+- 🚀 Sempre em busca de boas práticas, arquitetura, performance e escalabilidade.
+- 💡 Interesse em microsserviços, APIs REST, automação e soluções em nuvem.
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
+## 🚀 Principais Tecnologias & Ferramentas
+
+### 🧠 Linguagens
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMayor&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMayor&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" />
 </div>
 
 ---
 
-## 🚀 Tecnologias que uso no dia a dia
+### ☁️ Cloud & Backend
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="35"/>
-  <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-.NET-181717?style=flat-square&logo=dotnet" height="30"/>
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" />
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="30" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" />
+</div>
+
+---
+
+### 🌐 Frontend (Conhecimento de apoio)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" />
+</div>
+
+---
+
+### 🛠️ Ferramentas
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="40" />
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=MatheusMayor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="Matheus Mayor GitHub Stats"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMayor&layout=compact&langs_count=8&theme=tokyonight&hide=html,css"
+    alt="Most Used Languages"
+  />
 </div>
 
 ---
 
 ## 🔥 GitHub Streak
+
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MatheusMayor&theme=material-palenight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusMayor&theme=tokyonight" />
+</div>
+
+---
+
+## 📬 Onde me encontrar
+
+<div align="center">
+  <a href="mailto:matheusmayor82@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/matheus-mayor-771714aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://discord.gg/Matheus_Mayor#8010">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 📬 Contato
-<div align="center">
-  <a href="https://discord.gg/Matheus_Mayor#8010" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a> 
-  <a href="mailto:matheusmayor82@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/matheus-mayor-771714aa" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+<p align="center">
+  🚀 <i>"Código limpo, soluções escaláveis e aprendizado contínuo."</i>
+</p>
